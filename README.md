@@ -6,11 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+a+Full-Stack+Dev+%F0%9F%91%8B;Building+Scalable+Web+Apps+%F0%9F%9A%80;Crafting+Desktop+Tools+%F0%9F%9B%A0%EF%B8%8F;C%23,+Python,+Node.js,+Java" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=meow3040&icon=0&color=0" alt="Views">
-  </a>
-</p>
+
 
 ---
 
