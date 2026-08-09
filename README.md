@@ -45,18 +45,4 @@ Always exploring new frameworks and optimizing performance.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meow3040&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="meow3040's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=meow3040&theme=dark&hide_border=false" alt="meow3040's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meow3040&theme=dark&hide_border=false&layout=compact" alt="meow3040's top languages" />
-</p>
-
----
